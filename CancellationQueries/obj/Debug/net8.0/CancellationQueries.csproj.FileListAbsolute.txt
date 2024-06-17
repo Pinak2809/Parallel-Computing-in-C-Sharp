@@ -1,0 +1,14 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\CancellationQueries.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\CancellationQueries.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\CancellationQueries.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\CancellationQueries.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\bin\Debug\net8.0\CancellationQueries.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\bin\Debug\net8.0\CancellationQueries.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\bin\Debug\net8.0\CancellationQueries.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\bin\Debug\net8.0\CancellationQueries.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\bin\Debug\net8.0\CancellationQueries.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\CancellationQueries.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\refint\CancellationQueries.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\CancellationQueries.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\CancellationQueries.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\CancellationQueries\obj\Debug\net8.0\ref\CancellationQueries.dll

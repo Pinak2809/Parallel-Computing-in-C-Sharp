@@ -1,0 +1,14 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\bin\Debug\net8.0\IntensiveFunctionWithPLINQ.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\bin\Debug\net8.0\IntensiveFunctionWithPLINQ.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\bin\Debug\net8.0\IntensiveFunctionWithPLINQ.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\bin\Debug\net8.0\IntensiveFunctionWithPLINQ.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\bin\Debug\net8.0\IntensiveFunctionWithPLINQ.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\IntensiveFunctionWithPLINQ.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\IntensiveFunctionWithPLINQ.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\IntensiveFunctionWithPLINQ.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\IntensiveFunctionWithPLINQ.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\IntensiveFunctionWithPLINQ.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\refint\IntensiveFunctionWithPLINQ.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\IntensiveFunctionWithPLINQ.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\IntensiveFunctionWithPLINQ.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\IntensiveFunctionWithPLINQ\obj\Debug\net8.0\ref\IntensiveFunctionWithPLINQ.dll

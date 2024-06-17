@@ -1,0 +1,14 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\bin\Debug\net8.0\Parallel Class for optimal Performance.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\bin\Debug\net8.0\Parallel Class for optimal Performance.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\bin\Debug\net8.0\Parallel Class for optimal Performance.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\bin\Debug\net8.0\Parallel Class for optimal Performance.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\bin\Debug\net8.0\Parallel Class for optimal Performance.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\Parallel Class for optimal Performance.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\Parallel Class for optimal Performance.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\Parallel Class for optimal Performance.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\Parallel Class for optimal Performance.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\Parallel Class for optimal Performance.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\refint\Parallel Class for optimal Performance.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\Parallel Class for optimal Performance.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\Parallel Class for optimal Performance.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Class for optimal Performance\obj\Debug\net8.0\ref\Parallel Class for optimal Performance.dll

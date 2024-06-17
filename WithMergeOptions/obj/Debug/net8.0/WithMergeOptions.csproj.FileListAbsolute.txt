@@ -1,0 +1,14 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\bin\Debug\net8.0\WithMergeOptions.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\bin\Debug\net8.0\WithMergeOptions.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\bin\Debug\net8.0\WithMergeOptions.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\bin\Debug\net8.0\WithMergeOptions.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\bin\Debug\net8.0\WithMergeOptions.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\WithMergeOptions.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\WithMergeOptions.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\WithMergeOptions.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\WithMergeOptions.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\WithMergeOptions.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\refint\WithMergeOptions.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\WithMergeOptions.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\WithMergeOptions.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\WithMergeOptions\obj\Debug\net8.0\ref\WithMergeOptions.dll

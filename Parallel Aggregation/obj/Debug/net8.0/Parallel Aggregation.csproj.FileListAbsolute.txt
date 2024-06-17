@@ -1,0 +1,14 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\bin\Debug\net8.0\Parallel Aggregation.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\bin\Debug\net8.0\Parallel Aggregation.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\bin\Debug\net8.0\Parallel Aggregation.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\bin\Debug\net8.0\Parallel Aggregation.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\bin\Debug\net8.0\Parallel Aggregation.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\Parallel Aggregation.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\Parallel Aggregation.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\Parallel Aggregation.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\Parallel Aggregation.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\Parallel Aggregation.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\refint\Parallel Aggregation.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\Parallel Aggregation.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\Parallel Aggregation.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Aggregation\obj\Debug\net8.0\ref\Parallel Aggregation.dll

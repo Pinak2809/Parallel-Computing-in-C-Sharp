@@ -1,0 +1,14 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\bin\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\bin\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\bin\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\bin\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\bin\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\refint\StaticVsThreadStaticVsThreadLocal.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\StaticVsThreadStaticVsThreadLocal.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\StaticVsThreadStaticVsThreadLocal\obj\Debug\net8.0\ref\StaticVsThreadStaticVsThreadLocal.dll

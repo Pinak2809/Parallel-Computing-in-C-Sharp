@@ -1,0 +1,14 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\bin\Debug\net8.0\FunctionalPurityInPLNIQ.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\bin\Debug\net8.0\FunctionalPurityInPLNIQ.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\bin\Debug\net8.0\FunctionalPurityInPLNIQ.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\bin\Debug\net8.0\FunctionalPurityInPLNIQ.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\bin\Debug\net8.0\FunctionalPurityInPLNIQ.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\FunctionalPurityInPLNIQ.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\FunctionalPurityInPLNIQ.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\FunctionalPurityInPLNIQ.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\FunctionalPurityInPLNIQ.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\FunctionalPurityInPLNIQ.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\refint\FunctionalPurityInPLNIQ.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\FunctionalPurityInPLNIQ.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\FunctionalPurityInPLNIQ.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\FunctionalPurityInPLNIQ\obj\Debug\net8.0\ref\FunctionalPurityInPLNIQ.dll
