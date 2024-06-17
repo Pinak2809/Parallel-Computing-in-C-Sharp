@@ -1,0 +1,15 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.sourcelink.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\bin\Debug\net8.0\LocalValuesInParallel.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\bin\Debug\net8.0\LocalValuesInParallel.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\bin\Debug\net8.0\LocalValuesInParallel.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\bin\Debug\net8.0\LocalValuesInParallel.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\bin\Debug\net8.0\LocalValuesInParallel.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\refint\LocalValuesInParallel.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\LocalValuesInParallel.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\LocalValuesInParallel\obj\Debug\net8.0\ref\LocalValuesInParallel.dll
