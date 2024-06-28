@@ -47,7 +47,7 @@ class Program
         //Stop StopWatch...
         myStopWatch2.Stop();
 
-        Console.WriteLine($"Total sum of square roots: {totalSum2} calculated in {myStopWatch2.Elapsed.TotalMilliseconds} ms");
+        Console.WriteLine($"Total sum of square roots: {totalSum2} calculated in {myStopWatch2.Elapsed.TotalMilliseconds} ms (Performance Imporvement)");
 
         Console.ReadLine();
     }

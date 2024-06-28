@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LocalValuesInParallel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc4024e184f103751cf511a5db04692af758e1a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dfd7bc34933a181a7165d0777da8174091268e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("LocalValuesInParallel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LocalValuesInParallel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

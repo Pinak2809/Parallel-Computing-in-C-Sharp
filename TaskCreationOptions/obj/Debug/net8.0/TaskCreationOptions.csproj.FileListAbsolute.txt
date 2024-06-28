@@ -1,0 +1,15 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.sourcelink.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\bin\Debug\net8.0\TaskCreationOptions.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\bin\Debug\net8.0\TaskCreationOptions.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\bin\Debug\net8.0\TaskCreationOptions.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\bin\Debug\net8.0\TaskCreationOptions.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\bin\Debug\net8.0\TaskCreationOptions.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\refint\TaskCreationOptions.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\TaskCreationOptions.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCreationOptions\obj\Debug\net8.0\ref\TaskCreationOptions.dll
