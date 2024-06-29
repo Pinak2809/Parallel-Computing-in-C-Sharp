@@ -1,0 +1,15 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.sourcelink.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\bin\Debug\net8.0\ExceptionHandlingInTasks.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\bin\Debug\net8.0\ExceptionHandlingInTasks.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\bin\Debug\net8.0\ExceptionHandlingInTasks.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\bin\Debug\net8.0\ExceptionHandlingInTasks.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\bin\Debug\net8.0\ExceptionHandlingInTasks.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\refint\ExceptionHandlingInTasks.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ExceptionHandlingInTasks.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\ExceptionHandlingInTasks\obj\Debug\net8.0\ref\ExceptionHandlingInTasks.dll
