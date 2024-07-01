@@ -1,0 +1,15 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\bin\Debug\net8.0\TaskCompletionSource.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\bin\Debug\net8.0\TaskCompletionSource.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\bin\Debug\net8.0\TaskCompletionSource.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\bin\Debug\net8.0\TaskCompletionSource.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\bin\Debug\net8.0\TaskCompletionSource.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.sourcelink.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\refint\TaskCompletionSource.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\TaskCompletionSource.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\TaskCompletionSource\obj\Debug\net8.0\ref\TaskCompletionSource.dll
