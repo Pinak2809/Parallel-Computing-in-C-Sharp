@@ -15,8 +15,6 @@ This repository contains a comprehensive report on parallel computing in C#, alo
 
 3. **Parallel Genetic Algorithm**: An implementation of a genetic algorithm optimized for parallel execution, showcasing how evolutionary algorithms can benefit from parallelization.
 
-4. **Sobel Edge Detection**: A parallel implementation of the Sobel edge detection algorithm, demonstrating the application of parallel computing techniques in image processing.
-
 ## Getting Started
 
 To run the examples and algorithms:
@@ -35,15 +33,3 @@ To run the examples and algorithms:
 
 Each example and algorithm is contained in its own project within the solution. You can run them individually to observe the effects of parallelization and compare performance with sequential implementations where applicable.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-issues-page) if you want to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Thanks to all the contributors who have helped with the research and implementation of these parallel computing concepts.
-- Special thanks to [Your University/Institution Name] for supporting this research.
