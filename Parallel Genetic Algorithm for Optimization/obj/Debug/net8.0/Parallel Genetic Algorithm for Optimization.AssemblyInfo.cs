@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parallel Genetic Algorithm for Optimization")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39b69bbff63c7c4aa7c1f013faabc9fe1bd1481c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e3f8a0050e8c77bdca5f642d1cc54c345101cd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parallel Genetic Algorithm for Optimization")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parallel Genetic Algorithm for Optimization")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

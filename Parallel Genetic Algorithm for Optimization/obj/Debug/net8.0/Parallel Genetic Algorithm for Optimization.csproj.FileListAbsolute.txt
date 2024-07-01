@@ -1,0 +1,15 @@
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\bin\Debug\net8.0\Parallel Genetic Algorithm for Optimization.exe
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\bin\Debug\net8.0\Parallel Genetic Algorithm for Optimization.deps.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\bin\Debug\net8.0\Parallel Genetic Algorithm for Optimization.runtimeconfig.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\bin\Debug\net8.0\Parallel Genetic Algorithm for Optimization.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\bin\Debug\net8.0\Parallel Genetic Algorithm for Optimization.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.GeneratedMSBuildEditorConfig.editorconfig
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.AssemblyInfoInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.AssemblyInfo.cs
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.csproj.CoreCompileInputs.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.sourcelink.json
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\refint\Parallel Genetic Algorithm for Optimization.dll
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.pdb
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\Parallel Genetic Algorithm for Optimization.genruntimeconfig.cache
+Q:\Documents\HSHL Studium\sem 6\Parellel computing\Parallel Computing demo\Parallel Genetic Algorithm for Optimization\obj\Debug\net8.0\ref\Parallel Genetic Algorithm for Optimization.dll
